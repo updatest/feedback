@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🌐 Updatest Website
+    url: https://updatest.app
+    about: Visit the official Updatest website for downloads and information
+  - name: 📧 Email Support
+    url: mailto:hello@hugeideas.ca
+    about: Contact us directly for private support or business inquiries
+  - name: 🍺 Homebrew Documentation
+    url: https://docs.brew.sh
+    about: Learn more about Homebrew and how it works
