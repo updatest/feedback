@@ -2,6 +2,8 @@
 
 Welcome to the Updatest community feedback repository! This is where you can report bugs, request features, ask questions, and discuss improvements for [Updatest](https://updatest.app).
 
+You can also join us on [Discord](https://discord.gg/j4tMQExb).
+
 ## About Updatest
 
 Updatest is a native macOS app written in SwiftUI that keeps your apps up to date from sources like: Homebrew, Mac App Store and Sparkle. Updatest also helps you adopt your existing applications to Homebrew management for easy update management.
