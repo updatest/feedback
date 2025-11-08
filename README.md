@@ -2,7 +2,7 @@
 
 Welcome to the Updatest community feedback repository! This is where you can report bugs, request features, ask questions, and discuss improvements for [Updatest](https://updatest.app).
 
-You can also join us on [Discord](https://discord.gg/j4tMQExb).
+You can also join us on [Discord](https://discord.gg/BRk3vvKk9Z).
 
 ## About Updatest
 
